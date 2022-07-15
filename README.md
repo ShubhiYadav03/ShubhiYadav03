@@ -5,4 +5,4 @@
 - 😄 She/Her
 
 ## Watch my contributions get eaten by a snake
-![snake gif](https://github.com/ShubhiYadav03/ShubhiYadav03/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ShubhiYadav03/ShubhiYadav03/blob/output/github-contribution-grid-snake.svg)
