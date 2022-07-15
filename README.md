@@ -6,3 +6,5 @@
 
 ## Watch my contributions get eaten by a snake
 ![snake gif](https://github.com/ShubhiYadav03/ShubhiYadav03/blob/output/github-contribution-grid-snake.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShubhiYadav03)](https://github.com/anuraghazra/github-readme-stats)
